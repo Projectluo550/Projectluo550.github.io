@@ -1,5 +1,4 @@
 # 这是一个实验性网站。
-搭建将在以后进行
 现公布如下关于Z-library的消息：
 How to access Zlibrary through your Browser
 You can use singlelogin.re or z-lib.gs or 1lib.sk
