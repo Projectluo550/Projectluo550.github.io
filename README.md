@@ -1,6 +1,7 @@
 # 这是一个实验性网站。
-现公布如下关于Z-library的消息：
+现公布如下关于Z-library的消息：（转自Reddit）
 How to access Zlibrary through your Browser
+
 You can use singlelogin.re or z-lib.gs or 1lib.sk
 If you are in Italy or Spain use https://z-lib.gs or for Italy https://it.1lib.sk/ and Spain https://es.1lib.sk/
 Note for Italian users: If the above links give you a notice that the site is blocked, then either change your DNS server settings or use a VPN or try the onion site with the Tor browser. The Italian government is blocking Zlibrary URLs
